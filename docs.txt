@@ -12,6 +12,8 @@ $ npm install react-router-dom
 $ npm run dev 
 
 
+- deploy on render and netlify
+
 
 BACKEND:
 
