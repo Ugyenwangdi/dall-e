@@ -14,6 +14,8 @@ $ npm run dev
 
 - deploy on render and netlify
 
+- npm run build
+
 
 BACKEND:
 
