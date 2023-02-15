@@ -1,0 +1,30 @@
+$ cd client 
+$ npm create vite@latest ./
+$ npm install
+$  npm run dev
+
+$ npm install -D tailwindcss postcss autoprefixer
+$ npx tailwindcss init -p
+
+$ npm install file-saver
+$ npm install react-router-dom
+
+$ npm run dev 
+
+
+
+BACKEND:
+
+- create server folder
+- cd server 
+-  npm init -y 
+- npm install cloudinary cors dotenv express mongoose nodemon openai
+- connect to mongodb
+- connect to openai by getting api key
+- to host images, cloudinary signup
+
+inside package.json add a script to specify we are using es6 i.e usin import and export like in react 
+"type": "module",
+
+
+- we get the free 18 dollars on openai when creating new account, don't continue with google instead signup manually
